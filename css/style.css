@@ -159,7 +159,7 @@ button{
 }
 
 p,.text{
-	font-size: 16px;
+	font-size: 20px;
 	line-height: 28px;
 	font-weight: 400;
 	color: #777777;
@@ -173,7 +173,7 @@ p,.text{
 .auto-container{
 	position:static;
 	max-width:1200px;
-	padding:0px 15px;
+	padding:0px 20px;
 	margin:0 auto;
 }
 
@@ -279,7 +279,7 @@ ul,li{
 	color:#ffffff;
 	background-color: #156f89;
 	padding: 15px 35px;
-	font-weight: 700;
+	font-weight: 710;
 	overflow: hidden;
 }
 
@@ -362,7 +362,7 @@ ul,li{
 .list-style-two{
 	position: relative;
 	display: block;
-	margin-bottom: 30px;
+	margin-bottom: 40px;
 }
 
 .list-style-two li{
